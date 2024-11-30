@@ -1,0 +1,116 @@
+html, .container { 
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+}
+
+.clearfix {
+    clear: both; 
+    padding: 0; 
+    margin: 0; 
+    width: 100%; 
+    font-size: 0px; 
+    line-height: 0px;
+}
+
+.content_box, .fbg_resize, .footer_resize { 
+    margin: 0 auto; 
+    padding: 0 40px; 
+    width: 890px;
+}
+
+.header_resize { 
+    margin: 0 auto; 
+    padding: 0 0 0 40px; 
+    width: 930px;
+}
+
+.menu_nav { 
+    float: left; 
+    width: 653px;
+}
+
+.menu_nav ul { 
+    margin: 0; 
+    padding: 20px 0 0; 
+    list-style: none;
+}
+
+.menu_nav ul li { 
+    margin: 0 12px 0 0; 
+    float: left;
+}
+
+.content .main_content { 
+    float: left; 
+    width: 630px;
+}
+
+.content .main_content .articles { 
+    margin: 0; 
+    padding: 0 16px 0 0; 
+    float: left; 
+    width: 297px;
+}
+
+.content .sidebar { 
+    float: right; 
+    width: 236px;
+}
+
+.fbg{
+    height: 250px;
+    padding-top: 30px;
+}
+.fbg_resize .col { 
+    margin:0; 
+    float:left;
+}
+.fbg_resize .c1 { 
+    padding:0 16px 0 0; 
+    width:246px;
+}
+.fbg_resize .c2 { 
+    padding:0 16px; 
+    width:336px;
+}
+.fbg_resize .c3 { 
+    padding:0 0 0 16px; 
+    width:240px;
+}
+.fbg_resize .c2 img { 
+    margin:8px 16px 4px 0; 
+    padding:0; float:left;
+}
+.fbg_resize .c1 img, .fbg_resize .c3 img { 
+    margin:4px; 
+    padding:0;
+}
+.footer { 
+    background-color: #222222; 
+    border-top: 1px solid #505050; 
+    padding: 16px 0;
+}
+
+ul.footer_menu { 
+    margin: 0; 
+    padding: 8px 0; 
+    list-style: none; 
+    float: right; 
+    width: auto;
+}
+
+ul.footer_menu li { 
+    margin: 0; 
+    padding: 0 12px;
+    float: left;
+}
+
+ol { 
+    list-style: none;
+}
+
+ol li { 
+    display: block; 
+    clear: both;
+}
